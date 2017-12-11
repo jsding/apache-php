@@ -1,0 +1,1 @@
+sudo docker run -d -p 80:80 -v /data/playstrap/quickrun:/var/www -t dbface/apache-php
